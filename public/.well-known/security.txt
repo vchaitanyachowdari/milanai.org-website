@@ -1,0 +1,6 @@
+Contact: mailto:security@milanai.org
+Contact: mailto:contact@milanai.org
+Expires: 2025-12-31T23:59:59.000Z
+Preferred-Languages: en
+Canonical: https://www.milanai.org/.well-known/security.txt
+Policy: https://www.milanai.org/security-policy
